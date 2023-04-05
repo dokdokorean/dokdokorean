@@ -1,6 +1,4 @@
 ### Hi there 👋
- <a href="https://www.yonsei.ac.kr/wj/" target="_blank"><img src="https://img.shields.io/badge/-Yonsei%20Univ.-blue"/></a>
-
 <!--
 **dokdokorean/dokdokorean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
