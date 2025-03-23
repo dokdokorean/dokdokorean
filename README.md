@@ -58,7 +58,9 @@ I was recently featured in Yonsei University's official newspaper, *Yonsei Chunc
 <!-- 🎖️ Roles -->
 <p align="center">
   <img src="https://img.shields.io/badge/Product Owner-007ACC?style=for-the-badge" alt="Product Owner" title="Product Owner"/>
+<a href="https://www.do-it.kr/" target="_blank">
   <img src="https://img.shields.io/badge/President of DO IT-007ACC?style=for-the-badge" alt="President" title="President of DO IT"/>
+</a>
   <img src="https://img.shields.io/badge/FE-FF69B4?style=for-the-badge" alt="Front-End Dev" title="Frontend Developer"/>
   <img src="https://img.shields.io/badge/Yonsei University-003478?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Yonsei University" title="Yonsei University Student"/>
 </p>
